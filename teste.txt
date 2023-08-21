@@ -1,1 +1,4 @@
 minicurso GIT/GITHUB
+O presente minicurso visa abordar asssuntos que envolvem git e github.
+Ensinar aos calouros e iniciantes como usar a ferramenta e utilizá-las na Universidade.
+Espero que gostem!
